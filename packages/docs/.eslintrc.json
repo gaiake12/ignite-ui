@@ -1,3 +1,3 @@
 {
-  "extends": "@ignite-ui/esling-config/react"
+  "extends": "@math1400-ignite-ui/esling-config/react"
 }
