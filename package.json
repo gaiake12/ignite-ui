@@ -17,6 +17,7 @@
   "packageManager": "npm@10.7.0",
   "dependencies": {
     "@changesets/cli": "^2.27.7",
-    "@radix-ui/react-checkbox": "^1.1.1"
+    "@radix-ui/react-checkbox": "^1.1.1",
+    "@radix-ui/react-tooltip": "^1.1.2"
   }
 }
