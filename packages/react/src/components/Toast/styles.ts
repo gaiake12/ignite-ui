@@ -3,11 +3,11 @@ import { styled } from '../../styles'
 export const ToastContainer = styled('div', {
   width: '$90',
   height: '$20',
-  background: '$gray600',
+  background: '$gray800',
   display: 'flex',
   flexDirection: 'column',
   gap: '$4',
-  padding: '$6 $8 $6 $8',
+  padding: '$4 $6 $4 $6',
   fontFamily: '$default',
   borderRadius: '$md',
 
