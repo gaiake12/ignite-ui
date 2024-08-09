@@ -1,0 +1,1 @@
+import{N as r}from"./index-D0bZ9c5h.js";import"./index-l2PZgWEW.js";const e={parameters:{backgrounds:{default:"dark"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}},docs:{theme:r.dark}}};export{e as default};
