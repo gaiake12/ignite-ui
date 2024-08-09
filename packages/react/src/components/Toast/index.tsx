@@ -1,9 +1,8 @@
 import { X } from 'phosphor-react'
-import { ComponentProps } from 'react'
 import { ToastContainer } from './styles'
 import { Heading } from '../Heading'
 
-interface ToastProps extends ComponentProps<typeof Div> {
+export interface ToastProps {
   description: string
   title: string
 }
